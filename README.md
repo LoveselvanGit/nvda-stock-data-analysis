@@ -48,7 +48,7 @@ Install the required Python libraries:
 pip install pandas matplotlib numpy
 
 How to Run the Notebook
-git clone https://github.com/yourusername/nvda-stock-data-analysis.git
+git https://github.com/LoveselvanGit/nvda-stock-data-analysis.git
 cd nvda-stock-data-analysis
 jupyter notebook notebooks/DSC630_WEEK1_MAHALINGAM_code.ipynb
 Run the Notebook Cells to execute the analysis and visualize the results.
